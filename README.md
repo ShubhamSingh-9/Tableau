@@ -6,7 +6,7 @@
 4) Numerical and categorical columns, commonly referred to as quantifiable and dimensions, can be distinguished using Tableau. The columns in Tableau's x-axis are typically used to represent the dimension data. The rows in Tableau are represented on the y-axis as the measurable values.
 
 
-
+# Tableau Project: 
 1) Story Posted at https://public.tableau.com/shared/4C6JKNYK4?:display_count=n&:origin=viz_share_link
 2) Dataset used https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 3) Netflix Dashboard: https://public.tableau.com/views/NetflixDashboard_16947014764250/Netflix?:language=en-GB&:display_count=n&:origin=viz_share_link
