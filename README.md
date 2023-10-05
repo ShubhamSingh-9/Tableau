@@ -12,5 +12,5 @@
 3) Netflix Dashboard: https://public.tableau.com/views/NetflixDashboard_16947014764250/Netflix?:language=en-GB&:display_count=n&:origin=viz_share_link
 4) Amazon Dashboard: https://public.tableau.com/views/Amazondashboard_16949050166750/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 5) Covid Dshboard(India): https://public.tableau.com/shared/TSC3Q7RXT?:display_count=n&:origin=viz_share_link
-6) 6) CACAI Dashboard: https://public.tableau.com/shared/8CNS93X3G?:display_count=n&:origin=viz_share_link
+6) 6) CACAI Dashboard: https://public.tableau.com/views/CACIDashboard/Dashboard4?:language=en-GB&:display_count=n&:origin=viz_share_link
 
